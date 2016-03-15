@@ -8,6 +8,7 @@
 
 電信基礎設施與資源管理法草案，規劃通訊傳橎業者可以租用他人基礎網路網路，且要讓基礎網路建設只要登記即可，要讓基礎網路建設及運用更加容易及彈性；無線電頻率為無線通訊的必要媒介，亦為全體國民共享之資源，除可使用之無線電頻率範圍有限，且具有排他性，需發揮其最大之公共效益。所以頻率使用設計分享機制，讓頻率使用更加彈性；也對於頻率使用效益不佳者，應促其活化再利用或經由補償收回利用；對於射頻器材管理也重新檢視，影響頻率秩序重大者，將予以納管。
 
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/Idvh0CvEuEUhPK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 
 [《電信基礎設施與資源管理法》草案](http://www.slideshare.net/vtaiwan/ss-59543415)重點如下：
 
